@@ -1,0 +1,5 @@
+streamlit
+nflreadpy
+pandas
+pyarrow
+espn-api
